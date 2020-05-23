@@ -1,0 +1,2 @@
+# mayak
+GitHub Pages
